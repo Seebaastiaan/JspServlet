@@ -42,6 +42,15 @@
             id = request.getParameter( "id" );
             editar = request.getParameter( "editar" );
             actualizar = request.getParameter( "actualizar" );
+        
+            /*Inicio metodo editar
+            +
+            +
+            +
+            +
+            +
+            +*/   
+            
             
             if( "Submit".equals( editar ) )
             {
